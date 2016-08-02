@@ -1,0 +1,19 @@
+*{padding:0;margin:0;background-color: royalblue}
+.clear{:both;overflow: hidden;}
+ul{list-style: none;}
+.container{width: 800px;
+    margin: 50px auto; }
+.container li{
+    float:left;
+    width: 179px;
+    margin: 15px 10px;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 0 0 2px rgba(0,0,0,.5);
+}
+.container li img{
+    width: 170px;
+    height: 120px;
+    border-radius: 5px;
+    vertical-align: bottom;
+}
